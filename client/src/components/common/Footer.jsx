@@ -49,19 +49,19 @@ const Footer = () => {
             <h3 className="text-white font-semibold mb-4">Support</h3>
             <ul className="space-y-2">
               <li>
-                <a href="#" className="hover:text-primary-400 transition-colors">
+                <Link to="/help" className="hover:text-primary-400 transition-colors">
                   Help Center
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="#" className="hover:text-primary-400 transition-colors">
+                <Link to="/contact" className="hover:text-primary-400 transition-colors">
                   Contact Us
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="#" className="hover:text-primary-400 transition-colors">
+                <Link to="/privacy" className="hover:text-primary-400 transition-colors">
                   Privacy Policy
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
@@ -76,4 +76,3 @@ const Footer = () => {
 };
 
 export default Footer;
-
