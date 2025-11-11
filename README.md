@@ -247,7 +247,8 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Your Name - [Your Email]
+**Manikanta Chowdary**  - [238w1a12a7@vrsec.ac.in ]
+🌐 [GitHub Profile](https://github.com/Manikanta-04)
 
 ## 🙏 Acknowledgments
 
